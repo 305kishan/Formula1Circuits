@@ -114,7 +114,7 @@ This dataset is compiled from publicly available information on Pitwall.app. Whe
 - **Collection Script**: Available in `circuits.ipynb` (Jupyter Notebook)
 - **Python Version**: 3.10.4
 - **Collection Date**: 2025 (specific date not recorded)
-- **Processing Time**: Approximately 15-20 minutes for 77 circuits (with multithreading)
+- **Processing Time**: Approximately 90s for 77 circuits (with multithreading)
 
 ## Updates
 
