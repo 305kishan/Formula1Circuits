@@ -6,7 +6,7 @@ This dataset contains comprehensive information about all Formula 1 circuits tha
 
 ## Dataset Information
 
-- **File Name**: `all_f1_circuits.csv`
+- **File Name**: `circuits.csv`
 - **Format**: CSV (Comma-Separated Values)
 - **Encoding**: UTF-8
 - **Rows**: 77 circuits (excluding header)
